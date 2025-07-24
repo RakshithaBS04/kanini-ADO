@@ -1,6 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
 using System.Data;
-
+//first change
 internal class Program
 {
     static SqlConnection conn;
